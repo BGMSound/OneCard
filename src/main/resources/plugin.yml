@@ -1,0 +1,5 @@
+name: OneCard
+version: '${project.version}'
+main: kr.bgmsound.onecard.OneCard
+commands:
+  원카드:
